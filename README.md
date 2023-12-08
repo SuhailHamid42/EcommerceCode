@@ -1,4 +1,4 @@
-## Check the site live [here](ecommercesuhailhamid.netlify.app).
+## check this site here ecommercesuhailhamid.netlify.app
 
 
 # Getting Started with Create React App
